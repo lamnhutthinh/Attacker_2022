@@ -6,9 +6,12 @@ The case study assigned in the 2022 season is to classify fraudulent transaction
 - Nguyen Tuan Hung
 - Thai Tuan Kha
 - Nguyen Duc Minh Tan
+
 The specific roles of each member in this project are as follows:
 - Nguyen Tuan Hung and Dao Phuoc Thanh: process the data and create a data app on Streamlit.
 - Lam Nhut Thinh (me) and Nguyen Duc Minh Tan: deploy machine learning models.
 - Thai Tuan Kha: Prepare for presentation.
+
 Check out our data app --> https://fraud-detection-forcats-factors.streamlit.app/
+
 We won the first prize of Attacker 2022!
